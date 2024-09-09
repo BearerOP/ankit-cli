@@ -4,20 +4,14 @@
 
 A command-line interface tool for displaying Ankit Yadav's details.
 
-## Installation
+## Installation and Usage
 
 To use `ankit-cli`, you need to have Node.js installed. You can install the CLI tool globally via npm:
-
-```sh
-npm install -g ankit-cli
-```
-
-## Usage
-
 After installation, you can run the CLI tool with the following command:
 
 ```sh
-npx ankit
+npm i ankit-cli
+ankit
 ```
 
 ### Commands

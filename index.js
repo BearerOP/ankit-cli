@@ -17,7 +17,7 @@ const repoLink = terminalLink('Repository', 'https://github.com/BearerOP/ankit-c
 const npmLink = terminalLink('NPM Package', 'https://www.npmjs.com/package/ankit-cli');
 
 program
-  .version('1.1.0') // Updated version number
+  .version('1.0.4') // Updated version number
   .description('Ankit Yadav CLI');
 
 // Define the info command

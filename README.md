@@ -10,7 +10,7 @@ To use `ankit-cli`, you need to have Node.js installed. You can install the CLI 
 After installation, you can run the CLI tool with the following command:
 
 ```sh
-npm i ankit-cli
+npm i -g ankit-cli
 ankit
 ```
 

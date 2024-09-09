@@ -21,7 +21,7 @@
   "description": "A CLI tool by Ankit",
   "dependencies": {
     "ankit": "^1.0.1",
-    "ankit-cli": "^1.0.3",
+    "ankit-cli": "^1.0.4",
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
     "terminal-link": "^3.0.0"
